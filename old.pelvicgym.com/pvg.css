@@ -1,0 +1,177 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Helvetica, arial, sans-serif;
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+/*
+questo riporta i settaggi della parte superiore della pagina
+quella del menu
+*/
+
+#menuarea {
+	width: 800px;
+	background-color: #FFE8D9;
+}
+
+/*
+questo riporta i settaggi della parte centrale della pagina
+ovvero semplicemente i bordi a destra e a sinistra
+il contenitore ha un padding in alto per far iniziare il titolo più in basso
+*/
+#contenitore {
+	width: 798px;
+	border-top: 0px solid #CC2800;
+	border-left: 1px solid #CC2800;
+	border-right: 1px solid #CC2800;
+	border-bottom: 0px solid #CC2800;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #FFE8D9;
+}
+
+/*
+questo riporta i settaggi della parte inferiore della pagina
+quella del menu
+*/
+#footer {
+	width: 800px;
+	background-color: #FFE8D9;
+}
+
+
+
+/*
+questo riporta i settaggi della parte dove vanno i testi
+il margine serve a spaziare tutto il suo contenuto dal lato della pagina
+i 4 valori sono sopro destra sotto sinistra
+*/
+#pagina {
+	margin: 0px 20px 0px 20px;
+	font-family: Helvetica, arial, sans-serif;
+	text-align: justify;
+}
+
+/*
+questo riporta i settaggi del titolo della pagina:
+*/
+
+#titolo {
+	font-family: Helvetica, arial, sans-serif;
+	font-size: 16pt;
+	text-align: left;
+	color: #ff6600;
+	/* il margin bottom serve a spingere in basso il primo paragrafo - conta che i paragrafi hanno comunque 10 pixel di spazio in alto fra loro */
+	margin-bottom: 20px;
+}
+
+#titolo h1
+{
+	font-size:16pt;
+}
+/*
+questo riporta i settaggi del paragrafo:
+ho messo un margine superiore al paragrafo in modo da avere uno spazio tra un paragrafo e l'altro: margin-top
+se vuoi dare più o meno spazio dagli un valore altrimenti se vuoi gestire gli spazi con i br nel html toglilo
+*/
+#paragrafo {
+	font-size: 12pt;
+	color: #000000;
+	margin-top: 10px;
+}
+
+/* questo riporta i settaggi della prima lettra di ogni paragrafo*/
+#paragrafo:first-letter  {
+	margin-left: 20px;
+}
+
+
+#imgSinistra {
+	float: left;
+	margin: 15px 15px 10px 0px;
+	text-align: center;
+	font-size: 8pt;
+	border: 1px solid #CC2800;
+}
+
+#imgSinistraTop  {
+	
+	float: left;
+	margin: 7px 15px 10px 0px;
+	text-align: center;
+	font-size: 8pt;
+	border: 1px solid #CC2800;
+}
+
+#imgDestra {
+	
+	float: right; 
+	margin: 15px 0px 10px 15px;
+	text-align: center;
+	font-size: 8pt;
+	border: 1px solid #CC2800;
+}
+
+#imgDestraTop  {
+	
+	float: right;
+	margin: 7px 0px 10px 15px;
+	text-align: center;
+	font-size: 8pt;
+	border: 1px solid #CC2800;
+}
+
+#clr {
+	clear: both;
+}
+
+#nome {
+	width: 300px;
+	margin-bottom: 20px;
+}
+
+#indirizzo {
+	width: 300px;
+	margin-bottom: 20px;
+}
+
+
+#corpoMail {
+	width: 600px; 
+	height: 250px;
+	margin-bottom: 20px;
+}
+
+#sub {
+	width: 100px;
+}
+
+a.skip:active, a.skip:visited, a.skip:link   {
+	color: #ff9900;
+	font-family: Helvetica, arial, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+a.skip:hover {
+	color: #666666;
+	font-family: Helvetica, arial, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+}
+
+
+a:active, a:visited, a:link   {
+	color: #ff9900;
+	font-family: Helvetica, arial, sans-serif;
+	font-size: 10pt;
+}
+
+a:hover {
+	color: #666666;
+	font-family: Helvetica, arial, sans-serif;
+	font-size: 10pt;
+}
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- BEGIN Root pages -->
+<url>
+  <loc>http://www.pelvicgym.com/home.html</loc>
+  <priority>1.0000</priority>
+</url>
+<url>
+  <loc>http://www.pelvicgym.com/index.html</loc>
+  <priority>0.5000</priority>
+</url>
+<url>
+  <loc>http://www.pelvicgym.com/chi-siamo.html</loc>
+  <priority>0.9000</priority>
+</url>
+<url>
+  <loc>http://www.pelvicgym.com/contatta-pelvic-gym.html</loc>
+  <priority>0.8000</priority>
+</url>
+  <url>
+  <loc>http://www.pelvicgym.com/metodiche-di-rieducazione-perineale.html</loc>
+  <priority>1.0000</priority>
+</url>
+<url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge-la-ginnastica-pelvica.html</loc>
+  <priority>1.0000</priority>
+</url>
+<!-- END of Root pages -->
+<!-- BEGIN a-chi-si-rivolge pages -->
+ <url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/dolore_pelvi-perineale.html</loc>
+  <priority>0.8700</priority>
+ </url>
+ <url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/dolori-spasmi-muscoli-vaginali.html</loc>
+  <priority>0.9000</priority>
+ </url>
+<url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/eiaculazione_precoce.html</loc>
+  <priority>0.9000</priority>
+ </url>
+ <url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/gravidanza_e_parto.html</loc>
+  <priority>0.9000</priority>
+ </url>
+ <url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/incontinenza_fecale.html</loc>
+  <priority>0.9000</priority>
+ </url>
+ <url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/incontinenza_urinaria_donna.html</loc>
+  <priority>0.9000</priority>
+ </url>
+ <url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/incontinenza_urinaria_uomo.html</loc>
+  <priority>0.9000</priority>
+ </url>
+ <url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/pre-post_chirurgia_uro-ginecologica_o_colon.html</loc>
+  <priority>0.9000</priority>
+ </url>
+ <url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/prolasso_uro-genitale_retto-anale.html</loc>
+  <priority>0.9000</priority>
+ </url>
+ <url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/stipsi_da_dissinergia.html</loc>
+  <priority>0.9000</priority>
+ </url>
+  <url>
+  <loc>http://www.pelvicgym.com/a-chi-si-rivolge/stipsi_da_alterata_sensibilita_rettale.html</loc>
+  <priority>0.9000</priority>
+ </url>
+
+<!-- END a-chi-si-rivolge pages -->
+</urlset>
